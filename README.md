@@ -2,7 +2,7 @@
 
 An interactive music education site built with Next.js App Router, TypeScript, and Tailwind CSS. It showcases a modern landing page, a courses catalog powered by JSON data, animated UI primitives (3D cards, spotlight, hover menus, marquee testimonials), and responsive, accessible design.
 
-- Live demo: add-your-link-here
+- Live demo: https://nextjsmusic-coral.vercel.app/
 - Tech: Next.js 15, React 19, TypeScript, Tailwind CSS v4, ESLint 9
 
 ## Highlights (ready for your resume)
